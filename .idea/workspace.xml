@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47dc7ee4-3d37-4d6e-8a60-06f2a30355c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dialect/dialect.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dialect/sqlite3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema/schema.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema/schema_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/borm.go" beforeDir="false" afterPath="$PROJECT_DIR$/borm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/borm_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/borm_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log.go" beforeDir="false" afterPath="$PROJECT_DIR$/log/log.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/log/log_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session/raw.go" beforeDir="false" afterPath="$PROJECT_DIR$/session/raw.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/Cellar/go/1.15.5/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m5SMy1RyqFQFsfFa2uyQ2gHIfw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable..is.expanded" value="false" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestParse in github.com/odysa/Borm/schema">
+    <configuration name="TestLog in github.com/odysa/Borm/log" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Borm" />
+      <working_directory value="$PROJECT_DIR$/log" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/odysa/Borm/log" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestLog\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNewEngine in github.com/odysa/Borm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Borm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/odysa/Borm" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestNewEngine\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNewSession in github.com/odysa/Borm/session" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Borm" />
+      <working_directory value="$PROJECT_DIR$/session" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/odysa/Borm/session" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestNewSession\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestParse in github.com/odysa/Borm/schema" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Borm" />
+      <working_directory value="$PROJECT_DIR$/schema" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/odysa/Borm/schema" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestParse\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestParse in github.com/odysa/Borm/schema" />
+        <item itemvalue="Go Test.TestNewEngine in github.com/odysa/Borm" />
+        <item itemvalue="Go Test.TestNewSession in github.com/odysa/Borm/session" />
+        <item itemvalue="Go Test.TestLog in github.com/odysa/Borm/log" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
